@@ -6,12 +6,12 @@
 int
 main (int argc, char *argv[])
 {
+  mostrar_cadena();
   printf ("Hola Mundo\n");
-
   return 0;
 }
 
 void mostrar_cadena(){
-  printf("Añadiendo nueva funcionalidad (no funciona bien)");
+  printf("Añadiendo nueva funcionalidad (no funciona bien)");   //simulando error para corregirlo posteriormente
 
 }

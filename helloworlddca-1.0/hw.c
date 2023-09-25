@@ -10,3 +10,7 @@ main (int argc, char *argv[])
 
   return 0;
 }
+
+void mostrar_cadena(){
+  printf("Añadiendo nueva funcionalidad");
+}

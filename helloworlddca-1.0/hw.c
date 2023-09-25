@@ -3,6 +3,12 @@
 #include <stdlib.h>
 #include <string.h>
 
+void mostrar_cadena(){
+  printf("Añadiendo nueva funcionalidad (funciona correctamente sin errores)");  
+
+}
+
+
 int
 main (int argc, char *argv[])
 {
@@ -11,7 +17,3 @@ main (int argc, char *argv[])
   return 0;
 }
 
-void mostrar_cadena(){
-  printf("Añadiendo nueva funcionalidad (no funciona bien)");   //simulando error para corregirlo posteriormente
-
-}

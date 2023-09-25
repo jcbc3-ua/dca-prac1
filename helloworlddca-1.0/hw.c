@@ -12,5 +12,6 @@ main (int argc, char *argv[])
 }
 
 void mostrar_cadena(){
-  printf("Añadiendo nueva funcionalidad");
+  printf("Añadiendo nueva funcionalidad (no funciona bien)");
+
 }

@@ -8,6 +8,10 @@ void mostrar_cadena(){
 
 }
 
+void funcion2(){
+  printf("Funcion que simula grandes cambios en la aplicacion")
+}
+
 int
 main (int argc, char *argv[])
 {

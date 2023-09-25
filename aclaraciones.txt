@@ -1,0 +1,8 @@
+Para empezar, creamos las dos ramas (master y estable) en el repositorio y con las cuales vamos a trabajar.
+Inicialmente tendremos subida a las dos ramas bajo el nombre "version 1.0.0" la version inicial de la aplicacion la cual iremos desarrollando. Esta subida a la rama estable puesto que es un codigo estable inicial de partida
+Tenemos que tener en cuenta que llamaremos a las diferentes versiones segun el formato de etiquetas de version x.y.z donde la x cambiara si estamos ante una gran funcionalidad o cambio nuevo importante (llamado mayor).
+En la y (llamado menor), si es par significara que estamos en fase de estable de la aplicacion donde se corregiran los errores con el z (llamado micro) y si es impar estaremos en la rama master y significara que desarrollamos nuevas funcionalidades asi como la corrección de errores.
+En mi practica he implementado versiones 1.1.x donde implemento en cada version nueva una nueva funcionalidad o una correcion de error que ha surgido durante la implementacion de esta nueva funcionalidad.
+Una vez terminada esta funcionalidad y comprobada que funciona correctamente, he subido esta version estable "1.2.0" a la rama estable.
+Posteriormente, he implementado una funcionalidad la cual he simulado que es una grande funcionalidad y la he subido a la rama master donde la he estado desarrollando y una vez termidad tenemos la version final en la rama estable llamada "2.2.0".
+Por ultimo, he añadido el fichero aclaraciones.txt 

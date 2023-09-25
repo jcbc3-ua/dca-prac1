@@ -17,6 +17,7 @@ main (int argc, char *argv[])
 {
   mostrar_cadena();
   printf ("\nHola Mundo\n");
+  funcion2();
   return 0;
 }
 

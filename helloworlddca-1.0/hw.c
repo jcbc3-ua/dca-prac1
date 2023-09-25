@@ -8,7 +8,6 @@ void mostrar_cadena(){
 
 }
 
-
 int
 main (int argc, char *argv[])
 {
